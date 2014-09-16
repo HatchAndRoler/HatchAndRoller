@@ -3,6 +3,7 @@ HatchAndRoller
 
 XNA Game
 
+//NEED TO ADD VARIABLES!!
 private void Jump()
         {
             player.position+=velocity;
