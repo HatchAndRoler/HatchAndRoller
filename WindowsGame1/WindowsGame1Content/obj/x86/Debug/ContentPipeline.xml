@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2014-09-16T21:43:52.9733933+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hatchForDemo.png</Source>
+      <Name>hatchForDemo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hatchForDemo.xnb</Output>
+      <Time>2014-09-16T21:43:52.9853999+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Roller.png</Source>
+      <Name>Roller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Roller.xnb</Output>
+      <Time>2014-09-16T22:16:32.2136684+03:00</Time>
+    </Item>
+    <Item>
+      <Source>floor1.png</Source>
+      <Name>floor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\floor1.xnb</Output>
+      <Time>2014-09-16T22:53:11.0780855+03:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-09-16T22:48:08.6709208+03:00</Time>
+    </Item>
+    <Item>
+      <Source>floor_rev.png</Source>
+      <Name>floor_rev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\floor_rev.xnb</Output>
+      <Time>2014-09-16T23:05:58.7019571+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-12T13:33:15.7144119+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
