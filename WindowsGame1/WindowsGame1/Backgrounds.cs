@@ -28,7 +28,7 @@ namespace WindowsGame1
         }
         public void update()
         {
-            rectangle.X -= 3;
+            rectangle.X -= 5;
         }
 
     }

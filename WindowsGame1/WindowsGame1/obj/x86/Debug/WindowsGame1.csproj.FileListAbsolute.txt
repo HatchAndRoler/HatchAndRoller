@@ -1,5 +1,3 @@
-C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
-C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hatchForDemo.xnb
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Roller.xnb
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
@@ -7,6 +5,7 @@ C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
-C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\floor1.xnb
 C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb
-C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\floor_rev.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\envionment block 2.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\envionment block 1.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\HatchAndRoller\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hatch.xnb

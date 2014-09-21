@@ -42,25 +42,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="enemy.png">
-      <Name>enemy</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="hatchfordemo.png">
-      <Name>hatchfordemo</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="roller.png">
-      <Name>roller</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="background.png">
       <Name>background</Name>
       <Importer>TextureImporter</Importer>
@@ -68,15 +49,23 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="floor1.png">
-      <Name>floor1</Name>
+    <Compile Include="envionment block 2.png">
+      <Name>envionment block 2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="floor_rev.png">
-      <Name>floor_rev</Name>
+    <Compile Include="envionment block 1.png">
+      <Name>envionment block 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="hatch.png">
+      <Name>hatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="roller.png">
+      <Name>roller</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
